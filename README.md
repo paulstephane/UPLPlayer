@@ -14,10 +14,21 @@ This may limit the appeal for some, but may simplify the preparation of music fi
 - albums can be played gaplessely (provided the tracks are gapless)
 - albums can be grouped in folders 
 
+##Cue sheets
 
 Use of single-file albums with cue sheets is possible with the following restrictions:
 
 - a single wav file cannot be larger than 4GB (FAT32 restriction)
-- a sibgle wav file cannot contain more than 99 tracks per album
+- a single wav file cannot contain more than 99 tracks per album
 - a wav file cannot have a duration longer than approximately 2 hours and 45 minutes (9999 seconds to be exact)
 
+Cue sheets need to be stored alongside each corresponding wav file, with the following naming convention:
+
+"__NN wavfilename.cue"
+
+Example:
+- music file for a complete album is "01Muddy Waters - Live.wav"
+- cue sheet should be named "__01Muddy Waters - Live.cue"
+
+
+##Using large USB drives
