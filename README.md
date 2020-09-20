@@ -14,7 +14,7 @@ This may limit the appeal for some, but may simplify the preparation of music fi
 - albums can be played gaplessely (provided the tracks are gapless)
 - albums can be grouped in folders 
 
-##Cue sheets
+## Cue sheets
 
 Use of single-file albums with cue sheets is possible with the following restrictions:
 
@@ -31,4 +31,4 @@ Example:
 - cue sheet should be named "__01Muddy Waters - Live.cue"
 
 
-##Using large USB drives
+## Using large USB drives
