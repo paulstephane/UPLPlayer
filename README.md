@@ -2,17 +2,22 @@
 Web player for ECDesigns UPL96 
 
 
-Purpose:
+Features:
 
-(1) offers a very simple folder based browser to control playback of the UPL
-- does not read tags or images from the wav files
+(1) very simple interface (folder based) to browse albumw and control playback of the UPL
 
-(2) ability to split single wav files into multiple tracks based on cue sheets
-- your entire music collection can be played from the UPL (max: 98000 albums)
-- albums can be played gaplessely (provide the tracks are gapless)
+(2) does not use nor require tags and images to be stored in music files
+This may limit the appeal for some, but may simplify the preparation of music files for others, as the UPL requires specific tag formats (ID3V2). 
 
-Music saved as single (multi-track) wav files with cue-sheets have the following limitations:
-- no more than 99 tracks per album
+(3) ability to use single wav files containing multiple tracks withcue sheets
+- more files can be stored on a USB drive and played on the UPL (max: 98000 albums)
+- albums can be played gaplessely (provided the tracks are gapless)
+- albums can be grouped in folders 
+
+
+Use of single-file albums with cue sheets is possible with the following restrictions:
+
+- a single wav file cannot be larger than 4GB (FAT32 restriction)
+- a sibgle wav file cannot contain more than 99 tracks per album
 - a wav file cannot have a duration longer than approximately 2 hours and 45 minutes (9999 seconds to be exact)
-
 
