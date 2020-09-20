@@ -38,12 +38,12 @@ Example:
 
 ## Using large USB drives
 
-##Installation
+## Installation
 
-##Preparing Files
+## Preparing Files
 
-##Renaming files
+## Renaming files
 
-##Scanning the files
+## Scanning the files
 
-##Playing music
+## Playing music
