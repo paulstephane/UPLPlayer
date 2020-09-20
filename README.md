@@ -4,7 +4,7 @@ Web player for ECDesigns UPL96
 
 Features:
 
-(1) very simple interface (folder based) to browse albumw and control playback of the UPL
+(1) very simple interface (folder based) to browse albums and control playback of the UPL
 
 (2) does not use nor require tags and images to be stored in music files
 This may limit the appeal for some, but may simplify the preparation of music files for others, as the UPL requires specific tag formats (ID3V2). 
