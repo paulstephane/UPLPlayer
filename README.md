@@ -37,3 +37,13 @@ Example:
 
 
 ## Using large USB drives
+
+##Installation
+
+##Preparing Files
+
+##Renaming files
+
+##Scanning the files
+
+##Playing music
