@@ -47,9 +47,9 @@ Please note that the option "List Hard Drives" (under the "Show advanced drive p
 
 ## File naming conventions
 
-- Music files must be copied onto the USB drive in folders numbered 001 to 999.
-- Music files (wav) must be numbered wih a two digit prefix 01 to 99.
-- The corresponding cue files must have the same prefix as the wav files, with an additional prefix "__" (two underscore)
+- Files are stored in the USB drive inside folders numbered 001 to 999
+- Music files (wav) must be numbered wih a two digit prefix 01 to 99
+- Cue files must have the same prefix as the wav files, with an additional prefix "__" (two underscore)
 
 
 Example - folder contains a single album with files corresponding to each track
