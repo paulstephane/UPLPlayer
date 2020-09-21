@@ -17,9 +17,7 @@ This may limit the appeal for some, but may simplify the preparation of music fi
 - more files can be stored on a USB drive and played on the UPL (max: 98000 albums)
 - tracks contained in the single-file wav are displayed and can be played individually
 - albums can be played gaplessely (provided the tracks are gapless)
-- albums can be grouped in folders 
-
-## Cue sheets
+- albums can be organized in folders
 
 Use of single-file albums with cue sheets is possible with the following restrictions:
 
