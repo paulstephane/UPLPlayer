@@ -33,7 +33,15 @@ Use of single-file albums with cue sheets is possible with the following restric
 
 ## Preparing Files
 
-## Renaming files
+1) WAV music files
+
+
+
+2) CUE Sheets
+
+
+
+## File naming conventions
 
 Music files must be copied onto the USB drive in folders numbered 001 to 999.
 The music files must be numbered wih a two digit prefix 01 to 99
@@ -58,8 +66,10 @@ The corresponding cue files must have the same prefix as the wav files, with an 
 __01 B.B. King - Live At The Regal.cue    
 __02 Muddy Waters - Mississippi Live.cue    
 
-Numerous file renaming utilities are available to assist in automatically number files.
+Numerous file renaming utilities are available to assist in this.
 
 ## Scanning the files
+
+
 
 ## Playing music
