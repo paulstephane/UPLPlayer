@@ -49,7 +49,7 @@ The corresponding cue files must have the same prefix as the wav files, with an 
 03 Nine Below Zero.wav    
 ...
 
-- Example - folder contains multiple albums saved as single files (wav) with cue sheets (cue)
+- Example - folder contains multiple albums, each saved as single files (wav) with cue sheets (cue)
 
 **Folder "001 Blues"**
 
@@ -58,6 +58,7 @@ __01 B.B. King - Live At The Regal.cue
 02 Muddy Waters - Mississippi Live.wav    
 __02 Muddy Waters - Mississippi Live.cue    
 
+Numerous file renaming utilities are available to assist in automatically number files.
 
 ## Scanning the files
 
