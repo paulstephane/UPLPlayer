@@ -70,7 +70,9 @@ The corresponding cue files must have the same prefix as the wav files, with an 
 __01 B.B. King - Live At The Regal.cue    
 __02 Muddy Waters - Mississippi Live.cue    
 
-Numerous file renaming utilities are available to assist in this.
+Renaming files can be automated by defining batch scripts, or using any of the many file renaming software available on Windows/Mac/Linux.
+
+With the windows program "File Renamer Turbo" (http://www.kristanixsoftware.com/filerenamer/) scripts can be accessed from the Explorer.
 
 ## Scanning the files
 
