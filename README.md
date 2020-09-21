@@ -54,8 +54,8 @@ The corresponding cue files must have the same prefix as the wav files, with an 
 **Folder "001 Blues"**
 
 01 B.B. King - Live At The Regal.wav    
-__01 B.B. King - Live At The Regal.cue    
 02 Muddy Waters - Mississippi Live.wav    
+__01 B.B. King - Live At The Regal.cue    
 __02 Muddy Waters - Mississippi Live.cue    
 
 Numerous file renaming utilities are available to assist in automatically number files.
