@@ -29,7 +29,7 @@ Use of single-file albums with cue sheets is possible with the following restric
 
 ## Using large USB drives
 
-Drive must be formatted as **FAT32**. On Windows, we suggeest using "Rufus" (https://rufus.ie/) to format USB drives, with the following settings:
+Drive must be formatted as **FAT32**. On Windows, we suggest using "Rufus" (https://rufus.ie/) to format USB drives, with the following settings:
 
 ![rufus](/Rufus.jpg)
 
