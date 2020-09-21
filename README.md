@@ -40,9 +40,9 @@ The music files must be numbered wih a two digit prefix 01 to 99
 The corresponding cue files must have the same prefix as the wav files, with an additional prefix "__" (two underscore)
 
 
-- Example - folder contains one album 
+- Example - folder contains a single album with files corresponding to each track
 
-**Folder "001 Muddy Waters - Live"**
+**Folder "001 Muddy Waters - Live"** will contain the following files
 
 01 Mannish Boy.wav    
 02 Shes Nineteen Years Old.wav    
@@ -51,7 +51,7 @@ The corresponding cue files must have the same prefix as the wav files, with an 
 
 - Example - folder contains multiple albums, each saved as single files (wav) with cue sheets (cue)
 
-**Folder "001 Blues"**
+**Folder "001 Blues"** will contain the following files
 
 01 B.B. King - Live At The Regal.wav    
 02 Muddy Waters - Mississippi Live.wav    
