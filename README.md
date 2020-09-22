@@ -12,10 +12,10 @@ https://www.ecdesigns.nl/en/blog/upl96etl
 
 (1) simple interface (folder based) to browse albums and control playback of the UPL
 
-(2) tags and images stored in music files are not used
+- Tags and images stored in music files are not used
 This may limit the appeal for some, but may simplify the preparation of music files for others, as the UPL requires specific tag formats (ID3V2). 
 
-(3) ability to use single wav files containing multiple tracks with cue sheets
+(2) ability to use single wav files containing multiple tracks with cue sheets
 - more files can be stored on a USB drive and played on the UPL (max: 98000 albums)
 - tracks contained in the single-file wav are displayed and can be played individually
 - albums can be played gaplessely (provided the tracks are gapless)
