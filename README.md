@@ -9,5 +9,9 @@ This may limit the appeal for some, but may simplify the preparation of music fi
 
 - Albums can be stored on USB drives as "single wav files" with **cue sheets**. This allows for more albums to be stored on each drive (max: 98000 albums). Albums can be played gaplessly.
 
+Link to the application: https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing
 
+Download the documentation explaing how to use the application: 
+
+Download the documentation explaing how to generate single wav files/cue sheets with Foobar2000:
 
