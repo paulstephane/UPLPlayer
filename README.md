@@ -11,5 +11,3 @@ The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music f
 [Download the application](https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing)
 
 
-Download the documentation explaing how to generate single wav files/cue sheets with Foobar2000:
-
