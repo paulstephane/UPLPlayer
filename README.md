@@ -11,7 +11,7 @@ This may limit the appeal for some, but may simplify the preparation of music fi
 
 Link to the application: https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing
 
-Download the documentation explaing how to use the application: 
+Download the documentation explaing how to use the application: [Application documentation](/UPLPlayer application.pdf)
 
 Download the documentation explaing how to generate single wav files/cue sheets with Foobar2000:
 
