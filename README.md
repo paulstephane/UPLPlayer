@@ -2,7 +2,7 @@ The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music f
 
 **UPLPlayer** is an alternative application to control playback of the UPL96ETL, with the following features:
 
-- Offers a very simple interface (folder based, tags and images are not used) to browse albums and control playback of the UPL
+- Offers a very simple interface (folder based, tags and images are not used) to browse the content of your USB drive and control playback of the UPL
 
 - Albums can be stored on USB drives as "single wav files" with **cue sheets**. This allows for more albums to be stored on each drive (max: 98000 albums). Albums can be played gaplessly.
 
