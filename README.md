@@ -1,6 +1,6 @@
 The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music files stored on USB keys.
 
-https://www.ecdesigns.nl/en/blog/upl96etl
+[ECDesigns product page](https://www.ecdesigns.nl/en/blog/upl96etl)
 
 **UPLPlayer** is an alternative application to control playback of the UPL96ETL, with the following features:
 
