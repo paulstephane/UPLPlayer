@@ -9,7 +9,7 @@ The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music f
 
 **[Application documentation](./UPLPlayer.pdf)**
 
-**[Download the application](https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing)**
+**[Application Download](https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing)**
 
 Other useful documents (for Windows users only - OSX documentation to be added)
 
