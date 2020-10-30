@@ -15,6 +15,6 @@ Other useful documents
 
 [Format a drive in FAT32 using Rufus](./Rufus.pdf)
 
-[Create cue sheets with Foobar2000]
+[Create cue sheets with Foobar2000](./Foobar.pdf)
 
 
