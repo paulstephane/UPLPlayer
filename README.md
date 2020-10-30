@@ -13,8 +13,8 @@ The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music f
 
 Other useful documents
 
-[Format a drive in FAT32 using Rufus](./Rufus.pdf)
+**[Format a drive in FAT32 using Rufus](./Rufus.pdf)**
 
-[Create cue sheets with Foobar2000](./Foobar.pdf)
+**[Create cue sheets with Foobar2000](./Foobar.pdf)**
 
 
