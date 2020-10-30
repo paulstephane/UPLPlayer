@@ -7,6 +7,8 @@ The **UPL96ETL** by ECDesigns is a high fidelity audio source that plays music f
 
 - Albums can be stored on USB drives as "single wav files" with **cue sheets**. This allows for more albums to be stored on each drive (max: 98000 albums per drive) and for gapless playback.
 
+The application can run on any Windows or Macintosh computer (Linux version is planned) connected to the UPL96ETL.
+
 **[Application documentation](./UPLPlayer.pdf)**
 
 **[Application Download](https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing)**
