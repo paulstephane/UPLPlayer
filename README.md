@@ -19,5 +19,7 @@ Other useful guides (for Windows users only - OSX documentation to be added)
 
 **[Create cue sheets with Foobar2000](./Foobar.pdf)**
 
+Sample web page:
+
 <img src="./UPLPlayer.jpg" alt="drawing" width="300"/>
 
