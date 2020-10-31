@@ -17,7 +17,7 @@ Other useful guides (for Windows users only - OSX documentation to be added)
 
 **[Format a drive in FAT32 using Rufus](./Rufus.pdf)**
 
-For Windows users, using Foobar2000 you can quickly copy albums to a USB drive that and convert them automatically to the format required by the UPL96ETL. 
+For Windows users, using Foobar2000 you can quickly copy albums to a USB drive and automatically convert them to the right format for the UPL96ETL. 
 
  
 
