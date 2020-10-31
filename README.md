@@ -17,7 +17,10 @@ Other useful guides (for Windows users only - OSX documentation to be added)
 
 **[Format a drive in FAT32 using Rufus](./Rufus.pdf)**
 
+For Windows users, using Foobar2000 you can quickly copy albums to a USB drive. 
+
 **[Create cue sheets with Foobar2000](./Foobar.pdf)**
+
 
 Sample web page:
 
