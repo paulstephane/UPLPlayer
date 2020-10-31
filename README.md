@@ -13,6 +13,10 @@ The application can run on any Windows or Macintosh computer (Linux version is p
 
 **[Application Download](https://drive.google.com/drive/folders/1w9G3euD2XyKdjl2znDo2AxkBYdmLkoP0?usp=sharing)**
 
+Sample web page:
+
+<img src="./UPLPlayer.jpg" alt="drawing" width="300"/>
+
 Other useful guides (for Windows users only - OSX documentation to be added)
 
 **[Format a drive in FAT32 using Rufus](./Rufus.pdf)**
@@ -24,7 +28,5 @@ With Foobar2000 you can easily copy albums to a USB drive and convert them to th
 **[Create cue sheets with Foobar2000](./Foobar.pdf)**
 
 
-Sample web page:
 
-<img src="./UPLPlayer.jpg" alt="drawing" width="300"/>
 
