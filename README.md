@@ -24,7 +24,6 @@ Other useful guides (for Windows users only - OSX documentation to be added)
 With Foobar2000 you can easily copy albums to a USB drive and convert them to the right format for playback on the UPL96ETL. 
 
  
-
 **[Create cue sheets with Foobar2000](./Foobar.pdf)**
 
 
