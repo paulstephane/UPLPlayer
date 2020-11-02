@@ -15,7 +15,7 @@ The application can run on any Windows or Macintosh computer (Linux version is p
 
 Sample web page:
 
-<img src="./UPLPlayer2.jpg" alt="drawing" width="300"/>
+<img src="./UPLPlayer.jpg" alt="drawing" width="300"/>
 
 Other useful guides (for Windows users only - OSX documentation to be added)
 
